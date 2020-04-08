@@ -1,0 +1,11 @@
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.exe
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.deps.json
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.runtimeconfig.json
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.runtimeconfig.dev.json
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.dll
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\bin\Debug\netcoreapp3.1\pStevicDeliverablesTwo.pdb
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\obj\Debug\netcoreapp3.1\pStevicDeliverablesTwo.csprojAssemblyReference.cache
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\obj\Debug\netcoreapp3.1\pStevicDeliverablesTwo.AssemblyInfoInputs.cache
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\obj\Debug\netcoreapp3.1\pStevicDeliverablesTwo.AssemblyInfo.cs
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\obj\Debug\netcoreapp3.1\pStevicDeliverablesTwo.dll
+C:\Patrick\GrandCircusBC\Deliverables\ProjectAssignments\pStevicDeliverablesTwo\pStevicDeliverablesTwo\obj\Debug\netcoreapp3.1\pStevicDeliverablesTwo.pdb
